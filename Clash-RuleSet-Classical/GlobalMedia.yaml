@@ -1,8 +1,5 @@
 payload:
   ## 🌍 GlobalMedia
-  ## > ABC
-  - DOMAIN-SUFFIX,edgedatg.com
-  - DOMAIN-SUFFIX,go.com
   ## > AbemaTV
   - DOMAIN-SUFFIX,abema.io
   - DOMAIN-SUFFIX,ameba.jp
@@ -117,9 +114,10 @@ payload:
   ## > Deezer
   - DOMAIN-SUFFIX,deezer.com
   - DOMAIN-SUFFIX,dzcdn.net
-  ## > Disney Plus
+  ## > Disney
   - DOMAIN-SUFFIX,adventuresbydisney.com
   - DOMAIN-SUFFIX,babble.com
+  - DOMAIN-SUFFIX,babyzone.com
   - DOMAIN-SUFFIX,bamgrid.com
   - DOMAIN-SUFFIX,braze.com
   - DOMAIN-SUFFIX,conviva.com
@@ -129,11 +127,38 @@ payload:
   - DOMAIN-SUFFIX,disney-plus.net
   - DOMAIN-SUFFIX,disney-studio.com
   - DOMAIN-SUFFIX,disney-studio.net
+  - DOMAIN-SUFFIX,disney.be
+  - DOMAIN-SUFFIX,disney.bg
   - DOMAIN-SUFFIX,disney.ca
+  - DOMAIN-SUFFIX,disney.co.il
+  - DOMAIN-SUFFIX,disney.co.th
+  - DOMAIN-SUFFIX,disney.co.uk
+  - DOMAIN-SUFFIX,disney.co.za
   - DOMAIN-SUFFIX,disney.com
+  - DOMAIN-SUFFIX,disney.com.au
   - DOMAIN-SUFFIX,disney.com.br
+  - DOMAIN-SUFFIX,disney.cz
+  - DOMAIN-SUFFIX,disney.de
   - DOMAIN-SUFFIX,disney.demdex.net
+  - DOMAIN-SUFFIX,disney.dk
+  - DOMAIN-SUFFIX,disney.es
+  - DOMAIN-SUFFIX,disney.fi
+  - DOMAIN-SUFFIX,disney.fr
+  - DOMAIN-SUFFIX,disney.gr
+  - DOMAIN-SUFFIX,disney.hu
+  - DOMAIN-SUFFIX,disney.id
+  - DOMAIN-SUFFIX,disney.in
   - DOMAIN-SUFFIX,disney.io
+  - DOMAIN-SUFFIX,disney.it
+  - DOMAIN-SUFFIX,disney.my
+  - DOMAIN-SUFFIX,disney.nl
+  - DOMAIN-SUFFIX,disney.no
+  - DOMAIN-SUFFIX,disney.ph
+  - DOMAIN-SUFFIX,disney.pl
+  - DOMAIN-SUFFIX,disney.pt
+  - DOMAIN-SUFFIX,disney.ro
+  - DOMAIN-SUFFIX,disney.se
+  - DOMAIN-SUFFIX,disney.sg
   - DOMAIN-SUFFIX,disneyadsales.com
   - DOMAIN-SUFFIX,disneyarena.com
   - DOMAIN-SUFFIX,disneyaulani.com
@@ -148,6 +173,17 @@ payload:
   - DOMAIN-SUFFIX,disneyjunior.com
   - DOMAIN-SUFFIX,disneyjuniortreataday.com
   - DOMAIN-SUFFIX,disneylatino.com
+  - DOMAIN-SUFFIX,disneymagicmoments.co.il
+  - DOMAIN-SUFFIX,disneymagicmoments.co.uk
+  - DOMAIN-SUFFIX,disneymagicmoments.co.za
+  - DOMAIN-SUFFIX,disneymagicmoments.de
+  - DOMAIN-SUFFIX,disneymagicmoments.es
+  - DOMAIN-SUFFIX,disneymagicmoments.fr
+  - DOMAIN-SUFFIX,disneymagicmoments.gen.tr
+  - DOMAIN-SUFFIX,disneymagicmoments.gr
+  - DOMAIN-SUFFIX,disneymagicmoments.it
+  - DOMAIN-SUFFIX,disneymagicmoments.pl
+  - DOMAIN-SUFFIX,disneyme.com
   - DOMAIN-SUFFIX,disneymeetingsandevents.com
   - DOMAIN-SUFFIX,disneymovieinsiders.com
   - DOMAIN-SUFFIX,disneymusicpromotion.com
@@ -159,11 +195,13 @@ payload:
   - DOMAIN-SUFFIX,disneysrivieraresort.com
   - DOMAIN-SUFFIX,disneystore.com
   - DOMAIN-SUFFIX,disneysubscription.com
+  - DOMAIN-SUFFIX,disneyturkiye.com.tr
   - DOMAIN-SUFFIX,disneytvajobs.com
   - DOMAIN-SUFFIX,disneyworld-go.com
   - DOMAIN-SUFFIX,dssott.com
   - DOMAIN-SUFFIX,execute-api.us-east-1.amazonaws.com
   - DOMAIN-SUFFIX,go-disneyworldgo.com
+  - DOMAIN-SUFFIX,go.com
   - DOMAIN-SUFFIX,mickey.tv
   - DOMAIN-SUFFIX,moviesanywhere.com
   - DOMAIN-SUFFIX,playmation.com
@@ -179,6 +217,10 @@ payload:
   - DOMAIN-SUFFIX,watchdisneyfe.com
   - DOMAIN,cdn.registerdisney.go.com
   - DOMAIN,cdn.cdn.unid.go.com
+  ## >> ABC
+  - DOMAIN-SUFFIX,abc-studios.com
+  - DOMAIN-SUFFIX,abc.com
+  - DOMAIN-SUFFIX,edgedatg.com
   ## >> Espn
   - DOMAIN-SUFFIX,espn.com
   - DOMAIN-SUFFIX,espn.hb.omtrdc.net
