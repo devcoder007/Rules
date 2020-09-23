@@ -66,6 +66,7 @@ payload:
   - DOMAIN-SUFFIX,adobeaemcloud.com
   - DOMAIN-SUFFIX,adobeaemcloud.net
   - DOMAIN-SUFFIX,adobeawards.com
+  - DOMAIN-SUFFIX,adobecontent.io
   - DOMAIN-SUFFIX,adobecreativityawards.com
   - DOMAIN-SUFFIX,adobedc.net
   - DOMAIN-SUFFIX,adobedemo.com
@@ -76,6 +77,7 @@ payload:
   - DOMAIN-SUFFIX,adobehiddentreasures.com
   - DOMAIN-SUFFIX,adobejanus.com
   - DOMAIN-SUFFIX,adobeku.com
+  - DOMAIN-SUFFIX,adobelanding.com
   - DOMAIN-SUFFIX,adobelogin.com
   - DOMAIN-SUFFIX,adobeoobe.com
   - DOMAIN-SUFFIX,adobeplatinumclub.com
@@ -175,6 +177,10 @@ payload:
   - DOMAIN-SUFFIX,mobilemarketo.com
   - DOMAIN-SUFFIX,revenue-performance-management.com
   - DOMAIN-SUFFIX,toutapp.com
+  ## >> Tools
+  - DOMAIN-SUFFIX,compresspdf.new
+  - DOMAIN-SUFFIX,pdf.new
+  - DOMAIN-SUFFIX,sign.new
   ## >> Typekit
   - DOMAIN-SUFFIX,typekit.com
   - DOMAIN-SUFFIX,typekit.net
@@ -2783,6 +2789,48 @@ payload:
   - DOMAIN-SUFFIX,python.org
   - DOMAIN-SUFFIX,pythonhosted.org
   - DOMAIN-SUFFIX,pypi.org
+  ## > Qualcomm
+  - DOMAIN-SUFFIX,airgonetworks.com
+  - DOMAIN-SUFFIX,berkanawireless.com
+  - DOMAIN-SUFFIX,dragoniscoming.com
+  - DOMAIN-SUFFIX,gobianywhere.com
+  - DOMAIN-SUFFIX,hellosmartbook.com
+  - DOMAIN-SUFFIX,imod.com
+  - DOMAIN-SUFFIX,ipleadership.org
+  - DOMAIN-SUFFIX,iskoot.com
+  - DOMAIN-SUFFIX,meetsmartbook.com
+  - DOMAIN-SUFFIX,patenttruth.org
+  - DOMAIN-SUFFIX,pixtronix.com
+  - DOMAIN-SUFFIX,qctconnect.com
+  - DOMAIN-SUFFIX,qprize.com
+  - DOMAIN-SUFFIX,qualcomm-email.com
+  - DOMAIN-SUFFIX,qualcomm.cn
+  - DOMAIN-SUFFIX,qualcomm.co.id
+  - DOMAIN-SUFFIX,qualcomm.co.in
+  - DOMAIN-SUFFIX,qualcomm.co.jp
+  - DOMAIN-SUFFIX,qualcomm.co.kr
+  - DOMAIN-SUFFIX,qualcomm.co.uk
+  - DOMAIN-SUFFIX,qualcomm.com
+  - DOMAIN-SUFFIX,qualcomm.com.br
+  - DOMAIN-SUFFIX,qualcomm.com.tw
+  - DOMAIN-SUFFIX,qualcomm.de
+  - DOMAIN-SUFFIX,qualcomm.fr
+  - DOMAIN-SUFFIX,qualcommhalo.com
+  - DOMAIN-SUFFIX,qualcommlabs.com
+  - DOMAIN-SUFFIX,qualcommmea.com
+  - DOMAIN-SUFFIX,qualcommretail.com
+  - DOMAIN-SUFFIX,qualcommventures.cn
+  - DOMAIN-SUFFIX,qualcommventures.com
+  - DOMAIN-SUFFIX,qualphone.com
+  - DOMAIN-SUFFIX,quicinc.com
+  - DOMAIN-SUFFIX,snapdragon.cn
+  - DOMAIN-SUFFIX,snapdragonbooth.com
+  - DOMAIN-SUFFIX,uplinq.com
+  - DOMAIN-SUFFIX,wipower.com
+  - DOMAIN-SUFFIX,wirelessreach.com
+  - DOMAIN-SUFFIX,qualcomm.sc.omtrdc.net
+  ## >> brew
+  - DOMAIN-SUFFIX,brewmp.com
   ## > Quantil
   - DOMAIN-SUFFIX,quantil.com
   ## > Quora

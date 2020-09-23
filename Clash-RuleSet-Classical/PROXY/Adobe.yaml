@@ -12,6 +12,7 @@ payload:
   - DOMAIN-SUFFIX,adobeaemcloud.com
   - DOMAIN-SUFFIX,adobeaemcloud.net
   - DOMAIN-SUFFIX,adobeawards.com
+  - DOMAIN-SUFFIX,adobecontent.io
   - DOMAIN-SUFFIX,adobecreativityawards.com
   - DOMAIN-SUFFIX,adobedc.net
   - DOMAIN-SUFFIX,adobedemo.com
@@ -22,6 +23,7 @@ payload:
   - DOMAIN-SUFFIX,adobehiddentreasures.com
   - DOMAIN-SUFFIX,adobejanus.com
   - DOMAIN-SUFFIX,adobeku.com
+  - DOMAIN-SUFFIX,adobelanding.com
   - DOMAIN-SUFFIX,adobelogin.com
   - DOMAIN-SUFFIX,adobeoobe.com
   - DOMAIN-SUFFIX,adobeplatinumclub.com
@@ -121,6 +123,10 @@ payload:
   - DOMAIN-SUFFIX,mobilemarketo.com
   - DOMAIN-SUFFIX,revenue-performance-management.com
   - DOMAIN-SUFFIX,toutapp.com
+  ## >> Tools
+  - DOMAIN-SUFFIX,compresspdf.new
+  - DOMAIN-SUFFIX,pdf.new
+  - DOMAIN-SUFFIX,sign.new
   ## >> Typekit
   - DOMAIN-SUFFIX,typekit.com
   - DOMAIN-SUFFIX,typekit.net
