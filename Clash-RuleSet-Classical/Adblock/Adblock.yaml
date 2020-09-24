@@ -1516,6 +1516,8 @@ payload:
   - DOMAIN-SUFFIX,youtube.2cnt.net
   - DOMAIN-SUFFIX,ssl-youtube.2cnt.net
   - DOMAIN-SUFFIX,youtube.112.2o7.net
+  - DOMAIN-SUFFIX,adsensecustomsearchads.com
+  - DOMAIN-SUFFIX,adsenseformobileapps.com
   ## > Gorilla Nation-ads
   - DOMAIN-SUFFIX,geo.gorillanation.com
   - DOMAIN-SUFFIX,analytics.gorillanation.com
