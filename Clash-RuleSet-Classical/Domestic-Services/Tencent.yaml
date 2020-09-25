@@ -19,43 +19,144 @@ payload:
   - DOMAIN-SUFFIX,accessibilityunion.org
   - DOMAIN-SUFFIX,accessibilityunion.net.cn
   - DOMAIN-SUFFIX,accessibilityunion.cn
+  - DOMAIN-SUFFIX,ssibility-union.com.cn
   ## > 腾讯
+  - DOMAIN-SUFFIX,1700.cn
+  - DOMAIN-SUFFIX,17roco.com
+  - DOMAIN-SUFFIX,700chat.com
+  - DOMAIN-SUFFIX,agcloudcs.com
+  - DOMAIN-SUFFIX,aitangyou.com
+  - DOMAIN-SUFFIX,apcdns.com
   - DOMAIN-SUFFIX,apcdns.net
+  - DOMAIN-SUFFIX,apdcdn.com
+  - DOMAIN-SUFFIX,cfmna-tencent.com
+  - DOMAIN-SUFFIX,comsenz.com
+  - DOMAIN-SUFFIX,discuz.com
   - DOMAIN-SUFFIX,discuz.net
+  - DOMAIN-SUFFIX,discuz.org
+  - DOMAIN-SUFFIX,flzhan.cn
+  - DOMAIN-SUFFIX,flzhan.com
   - DOMAIN-SUFFIX,foxmail.com
   - DOMAIN-SUFFIX,foxmail.com.cn
+  - DOMAIN-SUFFIX,fsllq.com
+  - DOMAIN-SUFFIX,fsllq.com.cn
+  - DOMAIN-SUFFIX,fyeds0.com
+  - DOMAIN-SUFFIX,fyeds1.com
+  - DOMAIN-SUFFIX,fyeds2.com
+  - DOMAIN-SUFFIX,fyeds3.com
+  - DOMAIN-SUFFIX,fyeds4.com
+  - DOMAIN-SUFFIX,fyeds5.com
+  - DOMAIN-SUFFIX,fyeds6.com
+  - DOMAIN-SUFFIX,fyeds7.com
+  - DOMAIN-SUFFIX,fyeds8.com
+  - DOMAIN-SUFFIX,fyeds9.com
+  - DOMAIN-SUFFIX,gameitop.com
+  - DOMAIN-SUFFIX,gcloudcs.com
+  - DOMAIN-SUFFIX,gdtimg.com
+  - DOMAIN-SUFFIX,gtgres.com
   - DOMAIN-SUFFIX,gtimg.cn
   - DOMAIN-SUFFIX,gtimg.com
   - DOMAIN-SUFFIX,gtimg.com.cn
+  - DOMAIN-SUFFIX,haina.com
+  - DOMAIN-SUFFIX,hkgcloudcs.com
+  - DOMAIN-SUFFIX,html5mark.com
   - DOMAIN-SUFFIX,idqqimg.com
   - DOMAIN-SUFFIX,igamecj.com
   - DOMAIN-SUFFIX,imqq.com
+  - DOMAIN-SUFFIX,in.th
+  - DOMAIN-SUFFIX,lexiangla.com
+  - DOMAIN-SUFFIX,lightalk.com
+  - DOMAIN-SUFFIX,mobilemgr-global.com
+  - DOMAIN-SUFFIX,molo.cn
+  - DOMAIN-SUFFIX,mqqurl.com
   - DOMAIN-SUFFIX,myapp.com
+  - DOMAIN-SUFFIX,nagcloudcs.com
+  - DOMAIN-SUFFIX,nba.com
+  - DOMAIN-SUFFIX,pcmgr-global.com
+  - DOMAIN-SUFFIX,pengyou.com
+  - DOMAIN-SUFFIX,prayaya.com
+  - DOMAIN-SUFFIX,pubgtool.com
+  - DOMAIN-SUFFIX,qbview.com
   - DOMAIN-SUFFIX,qcloud.la
+  - DOMAIN-SUFFIX,qdcloudsolution.com
   - DOMAIN-SUFFIX,qlippie.com
   - DOMAIN-SUFFIX,qlogo.cn
+  - DOMAIN-SUFFIX,qmail.com
   - DOMAIN-SUFFIX,qpic.cn
+  - DOMAIN-SUFFIX,qpimg.cn
+  - DOMAIN-SUFFIX,qplus.com
   - DOMAIN-SUFFIX,qq.com
   - DOMAIN-SUFFIX,qq.com.cn
+  - DOMAIN-SUFFIX,qqgameapp.com
+  - DOMAIN-SUFFIX,qqgames.com
   - DOMAIN-SUFFIX,qqmail.com
+  - DOMAIN-SUFFIX,qqopenapp.com
+  - DOMAIN-SUFFIX,qstatic.com
   - DOMAIN-SUFFIX,qtimg.cn
   - DOMAIN-SUFFIX,qzone.com
+  - DOMAIN-SUFFIX,qzoneapp.com
+  - DOMAIN-SUFFIX,rdgz.org
+  - DOMAIN-SUFFIX,rmwxgame.com
+  - DOMAIN-SUFFIX,romzj.com
+  - DOMAIN-SUFFIX,rootjl.com
+  - DOMAIN-SUFFIX,rtxapp.com
+  - DOMAIN-SUFFIX,rtxonline.com
+  - DOMAIN-SUFFIX,safejmp.com
   - DOMAIN-SUFFIX,servicewechat.com
-  - DOMAIN-SUFFIX,tencent-cloud.net
+  - DOMAIN-SUFFIX,shuame.com
+  - DOMAIN-SUFFIX,shurl.cn
+  - DOMAIN-SUFFIX,sixjoy.com
+  - DOMAIN-SUFFIX,taotao.com
+  - DOMAIN-SUFFIX,tapd.cn
+  - DOMAIN-SUFFIX,tav-global.com
+  - DOMAIN-SUFFIX,tcdnhw.com
+  - DOMAIN-SUFFIX,tcloudbase.com
+  - DOMAIN-SUFFIX,tcloudbaseapp.com
+  - DOMAIN-SUFFIX,tdnsv1.com
+  - DOMAIN-SUFFIX,tdnsv5.com
+  - DOMAIN-SUFFIX,tdnsv6.com
+  - DOMAIN-SUFFIX,tencdns.net
   - DOMAIN-SUFFIX,tencent.com
   - DOMAIN-SUFFIX,tencent.com.cn
+  - DOMAIN-SUFFIX,tencentads.com
   - DOMAIN-SUFFIX,tencentapps.com
+  - DOMAIN-SUFFIX,tencentipv6.com
+  - DOMAIN-SUFFIX,tencentlog.com
   - DOMAIN-SUFFIX,tencentmind.com
-  - DOMAIN-SUFFIX,tencentmusic.com
-  - DOMAIN-SUFFIX,tencentyun.com
   - DOMAIN-SUFFIX,tenpay.com
+  - DOMAIN-SUFFIX,tgovcloud.com
+  - DOMAIN-SUFFIX,tisi.org
+  - DOMAIN-SUFFIX,tos.cn
   - DOMAIN-SUFFIX,tourismshow.cn
   - DOMAIN-SUFFIX,tourismuser.cn
+  - DOMAIN-SUFFIX,tqapp.cn
+  - DOMAIN-SUFFIX,tqapp.com
+  - DOMAIN-SUFFIX,tswjs.org
+  - DOMAIN-SUFFIX,twsapp.com
+  - DOMAIN-SUFFIX,tx-exhibition.com
+  - DOMAIN-SUFFIX,ugdtimg.com
+  - DOMAIN-SUFFIX,upqzfile.com
+  - DOMAIN-SUFFIX,upqzfilebk.com
   - DOMAIN-SUFFIX,url.cn
+  - DOMAIN-SUFFIX,urlshare.cn
+  - DOMAIN-SUFFIX,voovlive.com
   - DOMAIN-SUFFIX,wechat.com
+  - DOMAIN-SUFFIX,wechatlegal.net
+  - DOMAIN-SUFFIX,wechatpay.com.hk
   - DOMAIN-SUFFIX,wegame.com
+  - DOMAIN-SUFFIX,weishi.com
   - DOMAIN-SUFFIX,weixin.com
+  - DOMAIN-SUFFIX,weixinbridge.com
+  - DOMAIN-SUFFIX,weixinsxy.com
   - DOMAIN-SUFFIX,weiyun.com
+  - DOMAIN-SUFFIX,wesingapp.com
+  - DOMAIN-SUFFIX,weui.io
+  - DOMAIN-SUFFIX,wnsqzonebk.com
+  - DOMAIN-SUFFIX,woa.com
+  - DOMAIN-SUFFIX,wxgamemini.com
+  - DOMAIN-SUFFIX,wxutil.com
+  - DOMAIN-SUFFIX,xuz0.cn
+  - DOMAIN-SUFFIX,yximg.cn
   # >> Tencent Video
   - DOMAIN-SUFFIX,i.qq.com
   - DOMAIN-SUFFIX,v.qq.com
