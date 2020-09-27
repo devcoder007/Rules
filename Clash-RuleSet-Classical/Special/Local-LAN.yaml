@@ -1,8 +1,16 @@
 payload:
   ## > LocalLan
+  - DOMAIN-SUFFIX,example
+  - DOMAIN-SUFFIX,home.arpa
+  - DOMAIN-SUFFIX,invalid
   - DOMAIN-SUFFIX,ip6-loopback
+  - DOMAIN-SUFFIX,lan
   - DOMAIN-SUFFIX,local
+  - DOMAIN-SUFFIX,localdomain
   - DOMAIN-SUFFIX,localhost
+  - DOMAIN-SUFFIX,localhost.ptlogin2.qq.com
+  - DOMAIN-SUFFIX,localhost.sec.qq.com
+  - DOMAIN-SUFFIX,test
   - IP-CIDR,0.0.0.0/8,no-resolve
   - IP-CIDR,10.0.0.0/8,no-resolve
   - IP-CIDR,100.64.0.0/10,no-resolve
