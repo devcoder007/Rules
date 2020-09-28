@@ -2796,6 +2796,7 @@ DOMAIN-SUFFIX,byteac.com
 DOMAIN-SUFFIX,byteactivity.com
 DOMAIN-SUFFIX,bytecdn.cn
 DOMAIN-SUFFIX,bytecdn.com
+DOMAIN-SUFFIX,byted.org
 DOMAIN-SUFFIX,bytedance.cn
 DOMAIN-SUFFIX,bytedance.com
 DOMAIN-SUFFIX,bytedance.net
@@ -2829,7 +2830,6 @@ DOMAIN-SUFFIX,oortgslb.com
 DOMAIN-SUFFIX,pacmantwo.com
 DOMAIN-SUFFIX,pstatp.com
 DOMAIN-SUFFIX,samasty.com
-DOMAIN-SUFFIX,snssdk.com
 DOMAIN-SUFFIX,tekkenthree.com
 DOMAIN-SUFFIX,tetrisone.com
 DOMAIN-SUFFIX,toscdn.com
@@ -2888,7 +2888,6 @@ DOMAIN-SUFFIX,zjbyte.com
 DOMAIN-SUFFIX,zjbyte.net
 DOMAIN-SUFFIX,zjcdn.com
 DOMAIN-SUFFIX,zjgslb.com
-DOMAIN-SUFFIX,byted.org
 ## >> Baike
 DOMAIN-SUFFIX,baike.com
 ## >> 抖音
