@@ -656,6 +656,9 @@ DOMAIN,kktv-theater.kk.stream
 ## > Litv
 DOMAIN-SUFFIX,litv.tv
 DOMAIN,litvfreemobile-hichannel.cdn.hinet.net
+## > LondonReal
+DOMAIN-SUFFIX,freedomplatform.tv
+DOMAIN-SUFFIX,londonreal.tv
 ## > MeWatch
 DOMAIN-SUFFIX,mewatch.sg
 ## > MOOV
@@ -799,6 +802,7 @@ DOMAIN-SUFFIX,muscdn.com
 DOMAIN-SUFFIX,musical.ly
 DOMAIN-SUFFIX,sgpstatp.com
 DOMAIN-SUFFIX,snssdk.com
+DOMAIN-SUFFIX,tik-tokapi.com
 DOMAIN-SUFFIX,tiktok.com
 DOMAIN-SUFFIX,tiktokcdn.com
 DOMAIN-SUFFIX,tiktokv.com
@@ -907,3 +911,13 @@ DOMAIN-SUFFIX,voxcreative.com
 DOMAIN-SUFFIX,voxfieldguide.com
 DOMAIN-SUFFIX,voxmedia.com
 DOMAIN-SUFFIX,voxops.net
+## > ZeeTV
+DOMAIN-SUFFIX,z5.app
+DOMAIN-SUFFIX,z5.com
+DOMAIN-SUFFIX,zee5.com
+DOMAIN-SUFFIX,zee5.in
+DOMAIN-SUFFIX,zee5.tv
+DOMAIN-SUFFIX,zeebioskop.com
+DOMAIN-SUFFIX,zeetv.co.uk
+DOMAIN-SUFFIX,zeetv.com
+DOMAIN-SUFFIX,zeeuk.com

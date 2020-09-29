@@ -982,23 +982,19 @@ payload:
   - DOMAIN-SUFFIX,config.baofeng.net
   - DOMAIN-SUFFIX,houyi.baofeng.net
   ## > 字节跳动-ads
+  - DOMAIN-SUFFIX,p3-ad.bytecdn.cn
+  - DOMAIN-SUFFIX,log.byteoversea.com
+  - DOMAIN-SUFFIX,xlog-va.byteoversea.com
   - DOMAIN-SUFFIX,applog.musical.ly
-  - DOMAIN-SUFFIX,log2.musical.ly
   - DOMAIN-SUFFIX,log.musical.ly
-  - DOMAIN-SUFFIX,ad.toutiao.com
-  - DOMAIN-SUFFIX,adshare.toutiao.com
-  - DOMAIN-SUFFIX,d.toutiao.com
-  - DOMAIN-SUFFIX,dm.toutiao.com
-  - DOMAIN-SUFFIX,dsp.toutiao.com
-  - DOMAIN-SUFFIX,nativeapp.toutiao.com
-  - DOMAIN-SUFFIX,partner.toutiao.com
-  - DOMAIN-SUFFIX,sm.toutiao.com
-  - DOMAIN-SUFFIX,track.toutiao.com
+  - DOMAIN-SUFFIX,log2.musical.ly
   - DOMAIN-SUFFIX,analytics.snssdk.com
   - DOMAIN-SUFFIX,bds.snssdk.com
   - DOMAIN-SUFFIX,extlog.snssdk.com
   - DOMAIN-SUFFIX,ic.snssdk.com
   - DOMAIN-SUFFIX,is.snssdk.com
+  - DOMAIN-SUFFIX,log-hl-ipv6.snssdk.com
+  - DOMAIN-SUFFIX,log-lq.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
   - DOMAIN-SUFFIX,mcs.snssdk.com
   - DOMAIN-SUFFIX,mon.snssdk.com
@@ -1008,8 +1004,17 @@ payload:
   - DOMAIN-SUFFIX,toblog.snssdk.com
   - DOMAIN-SUFFIX,ug.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
-  - DOMAIN-SUFFIX,xlog-va.byteoversea.com
-  - DOMAIN-SUFFIX,p3-ad.bytecdn.cn
+  - DOMAIN-SUFFIX,log-va.tiktokv.com
+  - DOMAIN-SUFFIX,log.tiktokv.com
+  - DOMAIN-SUFFIX,ad.toutiao.com
+  - DOMAIN-SUFFIX,adshare.toutiao.com
+  - DOMAIN-SUFFIX,d.toutiao.com
+  - DOMAIN-SUFFIX,dm.toutiao.com
+  - DOMAIN-SUFFIX,dsp.toutiao.com
+  - DOMAIN-SUFFIX,nativeapp.toutiao.com
+  - DOMAIN-SUFFIX,partner.toutiao.com
+  - DOMAIN-SUFFIX,sm.toutiao.com
+  - DOMAIN-SUFFIX,track.toutiao.com
   ## > 易车网-ads
   - DOMAIN-SUFFIX,adx.yiche.com
   - DOMAIN-SUFFIX,log.ycapp.yiche.com
