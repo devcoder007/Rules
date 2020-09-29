@@ -887,6 +887,9 @@ DOMAIN-SUFFIX,wetv.vip
 DOMAIN-SUFFIX,wetvinfo.com
 DOMAIN-SUFFIX,v.smtcdns.com
 DOMAIN-SUFFIX,v.smtcdns.net
+## >> iflix
+DOMAIN-SUFFIX,iflix.com
+DOMAIN-SUFFIX,iflix-images.akamaized.net
 ## > Voxmedia
 DOMAIN-SUFFIX,cstatic.net
 DOMAIN-SUFFIX,curbed.com
