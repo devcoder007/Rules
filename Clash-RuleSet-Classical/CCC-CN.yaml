@@ -49,6 +49,8 @@ payload:
   - DOMAIN-SUFFIX,bcedns.com
   - DOMAIN-SUFFIX,bcedns.net
   - DOMAIN-SUFFIX,bceidaas.com
+  - DOMAIN-SUFFIX,bchdemo.site
+  - DOMAIN-SUFFIX,bdcloudapi.com
   - DOMAIN-SUFFIX,bdycdn.cn
   - DOMAIN-SUFFIX,bdycdn.net
   - DOMAIN-SUFFIX,bdydns.cn

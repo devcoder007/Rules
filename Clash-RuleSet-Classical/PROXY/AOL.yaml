@@ -1,8 +1,6 @@
 payload:
   ## > AOL
-  - DOMAIN-SUFFIX,aolchannels.aol.com
-  - DOMAIN-SUFFIX,video.aol.ca
-  - DOMAIN-SUFFIX,video.aol.co.uk
-  - DOMAIN-SUFFIX,video.aol.com
-  - DOMAIN-SUFFIX,search.aol.com
+  - DOMAIN-SUFFIX,aol.ca
+  - DOMAIN-SUFFIX,aol.co.uk
+  - DOMAIN-SUFFIX,aol.com
   - DOMAIN-SUFFIX,aolnews.com
