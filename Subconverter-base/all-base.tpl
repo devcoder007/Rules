@@ -65,6 +65,7 @@ dns:
     - '*.n.n.srv.nintendo.net'
     - '.apple.*'
     - '+.foo.com'
+    - 'xnotify.xboxlive.com'
   nameserver:
     - 223.5.5.5
     - 119.29.29.29
