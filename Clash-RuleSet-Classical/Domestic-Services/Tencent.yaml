@@ -20,6 +20,17 @@ payload:
   - DOMAIN-SUFFIX,accessibilityunion.net.cn
   - DOMAIN-SUFFIX,accessibilityunion.cn
   - DOMAIN-SUFFIX,ssibility-union.com.cn
+  ## >> YueWen 阅文
+  - DOMAIN-SUFFIX,yuewen.com
+  - DOMAIN-SUFFIX,hongxiu.com
+  - DOMAIN-SUFFIX,lrts.me
+  - DOMAIN-SUFFIX,qdmm.com
+  - DOMAIN-SUFFIX,qidian.com
+  - DOMAIN-SUFFIX,readnovel.com
+  - DOMAIN-SUFFIX,tingbook.com
+  - DOMAIN-SUFFIX,webnovel.com
+  - DOMAIN-SUFFIX,xs8.cn
+  - DOMAIN-SUFFIX,xxsy.net
   ## > 腾讯
   - DOMAIN-SUFFIX,1700.cn
   - DOMAIN-SUFFIX,17roco.com
@@ -157,6 +168,14 @@ payload:
   - DOMAIN-SUFFIX,wxutil.com
   - DOMAIN-SUFFIX,xuz0.cn
   - DOMAIN-SUFFIX,yximg.cn
+  - DOMAIN-SUFFIX,rtx.com.cn
+  - DOMAIN-SUFFIX,tencent.cn
+  - DOMAIN-SUFFIX,tencent.com.hk
+  - DOMAIN-SUFFIX,tencent.net.cn
+  - DOMAIN-SUFFIX,wegame.com.cn
+  - DOMAIN-SUFFIX,alloyteam.com
+  - DOMAIN-SUFFIX,imweb.io
+  - DOMAIN-SUFFIX,ivweb.io
   # >> Tencent Video
   - DOMAIN-SUFFIX,i.qq.com
   - DOMAIN-SUFFIX,v.qq.com
