@@ -3142,6 +3142,19 @@ DOMAIN-SUFFIX,un.org
 DOMAIN-SUFFIX,unpkg.com
 ## > Unsplash
 DOMAIN-SUFFIX,unsplash.com
+## > Vercel
+DOMAIN-SUFFIX,now.sh
+DOMAIN-SUFFIX,vercel-dns.com
+DOMAIN-SUFFIX,vercel-status.com
+DOMAIN-SUFFIX,vercel.app
+DOMAIN-SUFFIX,vercel.com
+DOMAIN-SUFFIX,zeit-world.co.uk
+DOMAIN-SUFFIX,zeit-world.com
+DOMAIN-SUFFIX,zeit-world.net
+DOMAIN-SUFFIX,zeit-world.org
+DOMAIN-SUFFIX,zeit.co
+DOMAIN-SUFFIX,zeit.sh
+DOMAIN-SUFFIX,zeitworld.com
 ## > Verisign
 DOMAIN-SUFFIX,verisign.asia
 DOMAIN-SUFFIX,verisign.biz
@@ -3618,10 +3631,6 @@ DOMAIN-SUFFIX,zeebiz.com
 DOMAIN-SUFFIX,zeeentertainment.com
 DOMAIN-SUFFIX,zeenews.com
 DOMAIN-SUFFIX,zeenews-fonts.s3.amazonaws.com
-## > Zeit
-DOMAIN-SUFFIX,zeit.co
-DOMAIN-SUFFIX,zeit.sh
-DOMAIN-SUFFIX,now.sh
 ## > Zoho
 DOMAIN-SUFFIX,zoho.com
 DOMAIN-SUFFIX,zohomerchandise.com
@@ -7662,7 +7671,6 @@ DOMAIN-SUFFIX,rapid.pk
 DOMAIN-SUFFIX,rapidgator.net
 DOMAIN-SUFFIX,rapidmoviez.com
 DOMAIN-SUFFIX,rapidvpn.com
-DOMAIN-SUFFIX,rarbgprx.org
 DOMAIN-SUFFIX,raremovie.cc
 DOMAIN-SUFFIX,raremovie.net
 DOMAIN-SUFFIX,raxcdn.com
