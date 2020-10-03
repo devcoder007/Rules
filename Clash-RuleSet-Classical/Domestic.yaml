@@ -1551,6 +1551,7 @@ payload:
   - DOMAIN-SUFFIX,got001.com
   - DOMAIN-SUFFIX,got002.com
   - DOMAIN-SUFFIX,jstucdn.com
+  - DOMAIN-SUFFIX,p4pfile.com
   - DOMAIN-SUFFIX,playcvn.com
   - DOMAIN-SUFFIX,rrys.tv
   - DOMAIN-SUFFIX,rrys2019.com

@@ -261,13 +261,11 @@ payload:
   - DOMAIN-SUFFIX,gameon-masters.com
   - DOMAIN-SUFFIX,gdansk-amazon.com
   - DOMAIN-SUFFIX,images-amazon.com
-  - DOMAIN-SUFFIX,images-cn-8.ssl-images-amazon.com
-  - DOMAIN-SUFFIX,images-cn.ssl-images-amazon.com
+  - DOMAIN-SUFFIX,ssl-images-amazon.com
   - DOMAIN-SUFFIX,primeday.cn
   - DOMAIN-SUFFIX,primeday.com.cn
   - DOMAIN-SUFFIX,primeday.info
   - DOMAIN-SUFFIX,siege-amazon.com
-  - DOMAIN-SUFFIX,ssl-images-amazon.com
   - DOMAIN-SUFFIX,ueberamazon.de
   - DOMAIN-SUFFIX,yamaxun.cn
   - DOMAIN-SUFFIX,yamaxun.com
