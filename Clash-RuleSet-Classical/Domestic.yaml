@@ -572,6 +572,11 @@ payload:
   - DOMAIN-SUFFIX,ecns.cn
   ## > Chiphell
   - DOMAIN-SUFFIX,chiphell.com
+  ## > CIBN (国广星空)
+  - DOMAIN-SUFFIX,starschina.cn
+  - DOMAIN-SUFFIX,starschina.com
+  - DOMAIN-SUFFIX,starschina.com.cn
+  - DOMAIN-SUFFIX,starschinalive.com
   ## > CNKI (中国知网)
   - DOMAIN-SUFFIX,bbf.org.cn
   - DOMAIN-SUFFIX,bjsbnet.com
