@@ -1,5 +1,6 @@
 ## 🐼 Microsoft
 ## >> Azure
+DOMAIN-SUFFIX,azure-apim.net
 DOMAIN-SUFFIX,azure-dns.com
 DOMAIN-SUFFIX,azure-dns.info
 DOMAIN-SUFFIX,azure-dns.net
@@ -65,6 +66,7 @@ DOMAIN-SUFFIX,microsoftnewskids.net
 DOMAIN-SUFFIX,microsoftnewskids.org
 DOMAIN-SUFFIX,microsoftol.com
 DOMAIN-SUFFIX,microsoftol.com.cn
+DOMAIN-SUFFIX,microsoftusercontent.com
 DOMAIN-SUFFIX,msn.cn
 DOMAIN-SUFFIX,msn.com
 DOMAIN-SUFFIX,msn.com.cn
@@ -179,8 +181,6 @@ DOMAIN-SUFFIX,e-msedge.net
 DOMAIN-SUFFIX,edgesuite.net
 DOMAIN-SUFFIX,efproject.net
 DOMAIN-SUFFIX,engkoo.com
-DOMAIN-SUFFIX,eus-www.sway-cdn.com
-DOMAIN-SUFFIX,eus-www.sway-extensions.com
 DOMAIN-SUFFIX,evoke-windowsservices-tas.msedge
 DOMAIN-SUFFIX,footprintdns.com
 DOMAIN-SUFFIX,g.akamaiedge.net
@@ -331,11 +331,6 @@ DOMAIN-SUFFIX,sfbassets.net
 DOMAIN-SUFFIX,sfx.ms
 DOMAIN-SUFFIX,sharepoint.com
 DOMAIN-SUFFIX,sharepointonline.com
-DOMAIN-SUFFIX,skype.com
-DOMAIN-SUFFIX,skype.net
-DOMAIN-SUFFIX,skypeassets.com
-DOMAIN-SUFFIX,skypeassets.net
-DOMAIN-SUFFIX,skypeforbusiness.com
 DOMAIN-SUFFIX,spoprod-a.akamaihd.net
 DOMAIN-SUFFIX,staffhub.ms
 DOMAIN-SUFFIX,statics-marketingsites-eas-ms-com.akamaized.net
@@ -343,8 +338,6 @@ DOMAIN-SUFFIX,statics-marketingsites-neu-ms-com.akamaized.net
 DOMAIN-SUFFIX,statics-marketingsites-wcus-ms-com.akamaized.net
 DOMAIN-SUFFIX,surface.com
 DOMAIN-SUFFIX,svc.ms
-DOMAIN-SUFFIX,sway-cdn.com
-DOMAIN-SUFFIX,sway.com
 DOMAIN-SUFFIX,syncshop.cn
 DOMAIN-SUFFIX,sysinternals.com
 DOMAIN-SUFFIX,tenor.com
@@ -371,11 +364,19 @@ DOMAIN-SUFFIX,windowsphone.com
 DOMAIN-SUFFIX,windowsupdate.com
 DOMAIN-SUFFIX,winhec.com
 DOMAIN-SUFFIX,winhec.net
-DOMAIN-SUFFIX,wus-www.sway-cdn.com
-DOMAIN-SUFFIX,wus-www.sway-extensions.com
 DOMAIN-SUFFIX,xamarin.com
 DOMAIN-SUFFIX,yammer.com
 DOMAIN-SUFFIX,yammerusercontent.com
+## >> Skype
+DOMAIN-SUFFIX,skype.com
+DOMAIN-SUFFIX,skype.net
+DOMAIN-SUFFIX,skypeassets.com
+DOMAIN-SUFFIX,skypeassets.net
+DOMAIN-SUFFIX,skypeforbusiness.com
+## >> Sway
+DOMAIN-SUFFIX,sway.com
+DOMAIN-SUFFIX,sway-cdn.com
+DOMAIN-SUFFIX,sway-extensions.com
 ## >> Xbox
 DOMAIN-SUFFIX,forzamotorsport.net
 DOMAIN-SUFFIX,forzaracingchampionship.com
