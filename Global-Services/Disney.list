@@ -102,6 +102,7 @@ DOMAIN-SUFFIX,thisispolaris.com
 DOMAIN-SUFFIX,watchdisneyfe.com
 DOMAIN,cdn.registerdisney.go.com
 DOMAIN,cdn.cdn.unid.go.com
+DOMAIN,disney.my.sentry.io
 ## >> ABC
 DOMAIN-SUFFIX,abc-studios.com
 DOMAIN-SUFFIX,abc.com
