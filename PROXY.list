@@ -1853,6 +1853,22 @@ DOMAIN-SUFFIX,fortawesome.com
 DOMAIN-SUFFIX,ftchinese.com
 ## > Getcomposer
 DOMAIN-SUFFIX,getcomposer.org
+## > Garena
+DOMAIN-SUFFIX,garena.co.id
+DOMAIN-SUFFIX,garena.co.th
+DOMAIN-SUFFIX,garena.com
+DOMAIN-SUFFIX,garena.live
+DOMAIN-SUFFIX,garena.my
+DOMAIN-SUFFIX,garena.ph
+DOMAIN-SUFFIX,garena.sg
+DOMAIN-SUFFIX,garena.tv
+DOMAIN-SUFFIX,garena.tw
+DOMAIN-SUFFIX,garena.vn
+DOMAIN-SUFFIX,garenanow.com
+DOMAIN-SUFFIX,seagroup.com
+DOMAIN-SUFFIX,avatargarenanow-a.akamaihd.net
+DOMAIN-SUFFIX,cdngarenanow-a.akamaihd.net
+DOMAIN-SUFFIX,dlmobilegarena-a.akamaihd.net
 ## > Gigabyte
 DOMAIN-SUFFIX,aorus.com
 DOMAIN-SUFFIX,aoruszone.cn
@@ -5689,7 +5705,6 @@ DOMAIN-SUFFIX,gaopi.net
 DOMAIN-SUFFIX,gaozhisheng.net
 DOMAIN-SUFFIX,gaozhisheng.org
 DOMAIN-SUFFIX,gardennetworks.org
-DOMAIN-SUFFIX,garena.com
 DOMAIN-SUFFIX,gartlive.com
 DOMAIN-SUFFIX,gate-project.com
 DOMAIN-SUFFIX,gate.io
