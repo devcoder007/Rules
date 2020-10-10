@@ -196,6 +196,7 @@ DOMAIN-SUFFIX,aboutamazon.in
 DOMAIN-SUFFIX,aboutamazon.it
 DOMAIN-SUFFIX,aboutamazon.jp
 DOMAIN-SUFFIX,aboutamazon.pl
+DOMAIN-SUFFIX,alexa.com
 DOMAIN-SUFFIX,alexafund.cn
 DOMAIN-SUFFIX,alexafund.com.cn
 DOMAIN-SUFFIX,amaaozn.com
@@ -257,6 +258,7 @@ DOMAIN-SUFFIX,amzn.to
 DOMAIN-SUFFIX,amznl.com
 DOMAIN-SUFFIX,assoc-amazon.cn
 DOMAIN-SUFFIX,associates-amazon.com
+DOMAIN-SUFFIX,createspace.com
 DOMAIN-SUFFIX,gameon-masters.com
 DOMAIN-SUFFIX,gdansk-amazon.com
 DOMAIN-SUFFIX,images-amazon.com
@@ -2319,6 +2321,10 @@ DOMAIN-SUFFIX,logitech.fr
 DOMAIN-SUFFIX,logitechg.com
 DOMAIN-SUFFIX,logitechg.fr
 DOMAIN-SUFFIX,worldsfastestgamer.net
+## > Mail.ru
+DOMAIN-SUFFIX,imgsmail.ru
+DOMAIN-SUFFIX,mail.ru
+DOMAIN-SUFFIX,mycdn.me
 ## > Manorama
 DOMAIN-SUFFIX,malayalamanorama.com
 DOMAIN-SUFFIX,manorama.com
@@ -2942,6 +2948,13 @@ DOMAIN-SUFFIX,slinginternational.com
 DOMAIN-SUFFIX,sling.com
 DOMAIN-SUFFIX,movenetworks.com
 DOMAIN-SUFFIX,movetv.com
+## > Snap
+DOMAIN-SUFFIX,sc-cdn.net
+DOMAIN-SUFFIX,snap-dev.net
+DOMAIN-SUFFIX,snap.com
+DOMAIN-SUFFIX,snapads.com
+DOMAIN-SUFFIX,snapchat.com
+DOMAIN-SUFFIX,snapkit.co
 ## > SoftLayer
 DOMAIN-SUFFIX,softlayer.net
 IP-CIDR,108.168.174.0/27,no-resolve
@@ -3134,6 +3147,7 @@ DOMAIN-SUFFIX,twitter.jp
 DOMAIN-SUFFIX,twitteroauth.com
 DOMAIN-SUFFIX,twitterstat.us
 DOMAIN-SUFFIX,twtrdns.net
+DOMAIN-SUFFIX,twttr.com
 DOMAIN-SUFFIX,vine.co
 IP-CIDR,69.195.160.0/19,no-resolve
 IP-CIDR,104.244.42.0/21,no-resolve
@@ -3306,6 +3320,14 @@ DOMAIN-SUFFIX,visaitalia.com
 DOMAIN-SUFFIX,visakorea.com
 DOMAIN-SUFFIX,visamiddleeast.com
 DOMAIN-SUFFIX,visasoutheasteurope.com
+## > VK
+DOMAIN-SUFFIX,mvk.com
+DOMAIN-SUFFIX,userapi.com
+DOMAIN-SUFFIX,vk-cdn.me
+DOMAIN-SUFFIX,vk-cdn.net
+DOMAIN-SUFFIX,vk-portal.net
+DOMAIN-SUFFIX,vk.cc
+DOMAIN-SUFFIX,vk.com
 ## > Vodafone
 DOMAIN-SUFFIX,vodafone.com
 ## > Westerndigital
@@ -6749,7 +6771,6 @@ DOMAIN-SUFFIX,magic-net.info
 DOMAIN-SUFFIX,mahabodhi.org
 DOMAIN-SUFFIX,maiio.net
 DOMAIN-SUFFIX,mail-archive.com
-DOMAIN-SUFFIX,mail.ru
 DOMAIN-SUFFIX,mailchimp.com
 DOMAIN-SUFFIX,maildns.xyz
 DOMAIN-SUFFIX,mailfence.com
@@ -8015,7 +8036,6 @@ DOMAIN-SUFFIX,smh.com.au
 DOMAIN-SUFFIX,smhric.org
 DOMAIN-SUFFIX,smith.edu
 DOMAIN-SUFFIX,smyxy.org
-DOMAIN-SUFFIX,snapchat.com
 DOMAIN-SUFFIX,snaptu.com
 DOMAIN-SUFFIX,sneakme.net
 DOMAIN-SUFFIX,snippetsapp.com
@@ -8713,7 +8733,6 @@ DOMAIN-SUFFIX,twstar.net
 DOMAIN-SUFFIX,twt.tl
 DOMAIN-SUFFIX,twtkr.com
 DOMAIN-SUFFIX,twtrland.com
-DOMAIN-SUFFIX,twttr.com
 DOMAIN-SUFFIX,twurl.nl
 DOMAIN-SUFFIX,twyac.org
 DOMAIN-SUFFIX,txmblr.com
@@ -8901,7 +8920,6 @@ DOMAIN-SUFFIX,vivatube.com
 DOMAIN-SUFFIX,vivthomas.com
 DOMAIN-SUFFIX,vizvaz.com
 DOMAIN-SUFFIX,vjmedia.com.hk
-DOMAIN-SUFFIX,vk.com
 DOMAIN-SUFFIX,vllcs.org
 DOMAIN-SUFFIX,vmixcore.com
 DOMAIN-SUFFIX,vmpsoft.com

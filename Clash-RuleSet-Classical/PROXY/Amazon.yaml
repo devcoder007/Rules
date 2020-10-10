@@ -12,6 +12,7 @@ payload:
   - DOMAIN-SUFFIX,aboutamazon.it
   - DOMAIN-SUFFIX,aboutamazon.jp
   - DOMAIN-SUFFIX,aboutamazon.pl
+  - DOMAIN-SUFFIX,alexa.com
   - DOMAIN-SUFFIX,alexafund.cn
   - DOMAIN-SUFFIX,alexafund.com.cn
   - DOMAIN-SUFFIX,amaaozn.com
@@ -73,6 +74,7 @@ payload:
   - DOMAIN-SUFFIX,amznl.com
   - DOMAIN-SUFFIX,assoc-amazon.cn
   - DOMAIN-SUFFIX,associates-amazon.com
+  - DOMAIN-SUFFIX,createspace.com
   - DOMAIN-SUFFIX,gameon-masters.com
   - DOMAIN-SUFFIX,gdansk-amazon.com
   - DOMAIN-SUFFIX,images-amazon.com

@@ -197,6 +197,7 @@ payload:
   - DOMAIN-SUFFIX,aboutamazon.it
   - DOMAIN-SUFFIX,aboutamazon.jp
   - DOMAIN-SUFFIX,aboutamazon.pl
+  - DOMAIN-SUFFIX,alexa.com
   - DOMAIN-SUFFIX,alexafund.cn
   - DOMAIN-SUFFIX,alexafund.com.cn
   - DOMAIN-SUFFIX,amaaozn.com
@@ -258,6 +259,7 @@ payload:
   - DOMAIN-SUFFIX,amznl.com
   - DOMAIN-SUFFIX,assoc-amazon.cn
   - DOMAIN-SUFFIX,associates-amazon.com
+  - DOMAIN-SUFFIX,createspace.com
   - DOMAIN-SUFFIX,gameon-masters.com
   - DOMAIN-SUFFIX,gdansk-amazon.com
   - DOMAIN-SUFFIX,images-amazon.com
@@ -2320,6 +2322,10 @@ payload:
   - DOMAIN-SUFFIX,logitechg.com
   - DOMAIN-SUFFIX,logitechg.fr
   - DOMAIN-SUFFIX,worldsfastestgamer.net
+  ## > Mail.ru
+  - DOMAIN-SUFFIX,imgsmail.ru
+  - DOMAIN-SUFFIX,mail.ru
+  - DOMAIN-SUFFIX,mycdn.me
   ## > Manorama
   - DOMAIN-SUFFIX,malayalamanorama.com
   - DOMAIN-SUFFIX,manorama.com
@@ -2943,6 +2949,13 @@ payload:
   - DOMAIN-SUFFIX,sling.com
   - DOMAIN-SUFFIX,movenetworks.com
   - DOMAIN-SUFFIX,movetv.com
+  ## > Snap
+  - DOMAIN-SUFFIX,sc-cdn.net
+  - DOMAIN-SUFFIX,snap-dev.net
+  - DOMAIN-SUFFIX,snap.com
+  - DOMAIN-SUFFIX,snapads.com
+  - DOMAIN-SUFFIX,snapchat.com
+  - DOMAIN-SUFFIX,snapkit.co
   ## > SoftLayer
   - DOMAIN-SUFFIX,softlayer.net
   - IP-CIDR,108.168.174.0/27,no-resolve
@@ -3135,6 +3148,7 @@ payload:
   - DOMAIN-SUFFIX,twitteroauth.com
   - DOMAIN-SUFFIX,twitterstat.us
   - DOMAIN-SUFFIX,twtrdns.net
+  - DOMAIN-SUFFIX,twttr.com
   - DOMAIN-SUFFIX,vine.co
   - IP-CIDR,69.195.160.0/19,no-resolve
   - IP-CIDR,104.244.42.0/21,no-resolve
@@ -3307,6 +3321,14 @@ payload:
   - DOMAIN-SUFFIX,visakorea.com
   - DOMAIN-SUFFIX,visamiddleeast.com
   - DOMAIN-SUFFIX,visasoutheasteurope.com
+  ## > VK
+  - DOMAIN-SUFFIX,mvk.com
+  - DOMAIN-SUFFIX,userapi.com
+  - DOMAIN-SUFFIX,vk-cdn.me
+  - DOMAIN-SUFFIX,vk-cdn.net
+  - DOMAIN-SUFFIX,vk-portal.net
+  - DOMAIN-SUFFIX,vk.cc
+  - DOMAIN-SUFFIX,vk.com
   ## > Vodafone
   - DOMAIN-SUFFIX,vodafone.com
   ## > Westerndigital
