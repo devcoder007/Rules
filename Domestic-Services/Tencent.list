@@ -20,15 +20,53 @@ DOMAIN-SUFFIX,accessibilityunion.net.cn
 DOMAIN-SUFFIX,accessibilityunion.cn
 DOMAIN-SUFFIX,ssibility-union.com.cn
 ## >> YueWen 阅文
-DOMAIN-SUFFIX,yuewen.com
-DOMAIN-SUFFIX,hongxiu.com
-DOMAIN-SUFFIX,lrts.me
+DOMAIN-SUFFIX,cmfu.com
+DOMAIN-SUFFIX,guichuideng.com
+DOMAIN-SUFFIX,kuledushu.com
+DOMAIN-SUFFIX,mmqidian.com
+DOMAIN-SUFFIX,qdd.gd
+DOMAIN-SUFFIX,qdd.gg
+DOMAIN-SUFFIX,qdd.la
 DOMAIN-SUFFIX,qdmm.com
+DOMAIN-SUFFIX,qdwenxue.com
+DOMAIN-SUFFIX,qidian.cn
 DOMAIN-SUFFIX,qidian.com
-DOMAIN-SUFFIX,readnovel.com
-DOMAIN-SUFFIX,tingbook.com
+DOMAIN-SUFFIX,qidianmm.com
 DOMAIN-SUFFIX,webnovel.com
+DOMAIN-SUFFIX,weiaixiaoshuo.com
+DOMAIN-SUFFIX,xdxiaoshuo.com
+DOMAIN-SUFFIX,yuewen.com
+DOMAIN-SUFFIX,yux.team
+DOMAIN-SUFFIX,ywurl.cn
+DOMAIN-SUFFIX,ywurl.com
+# >> 红袖添香
+DOMAIN-SUFFIX,hongxiu.com
+# >> 言情小说吧
 DOMAIN-SUFFIX,xs8.cn
+# >> 懒人在线
+DOMAIN-SUFFIX,jiangzikanshu.cn
+DOMAIN-SUFFIX,jiangziyuedu.com
+DOMAIN-SUFFIX,jiangzidushu.com
+DOMAIN-SUFFIX,jiangzikanshu.com
+DOMAIN-SUFFIX,lrts.me
+DOMAIN-SUFFIX,wting.info
+DOMAIN-SUFFIX,yayagushi.com
+DOMAIN-SUFFIX,kting.info
+DOMAIN-SUFFIX,mting.info
+DOMAIN-SUFFIX,ating.info
+DOMAIN-SUFFIX,lazyaudio.com
+DOMAIN-SUFFIX,miloli.info
+DOMAIN-SUFFIX,yayagushi.cn
+DOMAIN-SUFFIX,armaf.org
+# >> 网文欣阅
+DOMAIN-SUFFIX,huamengxiaoshuo.com
+DOMAIN-SUFFIX,readnovel.com
+DOMAIN-SUFFIX,xs.cn
+DOMAIN-SUFFIX,yqacg.com
+# >> 天方听书网
+DOMAIN-SUFFIX,tingbook.com
+# >> 潇湘书院
+DOMAIN-SUFFIX,xxsy.com
 DOMAIN-SUFFIX,xxsy.net
 ## > 腾讯
 USER-AGENT,live4iphone*
