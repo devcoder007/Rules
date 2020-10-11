@@ -184,6 +184,7 @@ DOMAIN-SUFFIX,sign.new
 DOMAIN-SUFFIX,typekit.com
 DOMAIN-SUFFIX,typekit.net
 ## > Amazon
+DOMAIN-SUFFIX,a2z.com
 DOMAIN-SUFFIX,aboutamazon.cn
 DOMAIN-SUFFIX,aboutamazon.co.uk
 DOMAIN-SUFFIX,aboutamazon.com
@@ -249,6 +250,8 @@ DOMAIN-SUFFIX,amazonliterarypartnership.com
 DOMAIN-SUFFIX,amazonlumberyard.wang
 DOMAIN-SUFFIX,amazonnow.cn
 DOMAIN-SUFFIX,amazonnow.com.cn
+DOMAIN-SUFFIX,amazonpay.com
+DOMAIN-SUFFIX,amazonpay.in
 DOMAIN-SUFFIX,amazonsdi.com
 DOMAIN-SUFFIX,amazonstudiosguilds.com
 DOMAIN-SUFFIX,amazontrust.com
@@ -262,11 +265,11 @@ DOMAIN-SUFFIX,createspace.com
 DOMAIN-SUFFIX,gameon-masters.com
 DOMAIN-SUFFIX,gdansk-amazon.com
 DOMAIN-SUFFIX,images-amazon.com
-DOMAIN-SUFFIX,ssl-images-amazon.com
 DOMAIN-SUFFIX,primeday.cn
 DOMAIN-SUFFIX,primeday.com.cn
 DOMAIN-SUFFIX,primeday.info
 DOMAIN-SUFFIX,siege-amazon.com
+DOMAIN-SUFFIX,ssl-images-amazon.com
 DOMAIN-SUFFIX,ueberamazon.de
 DOMAIN-SUFFIX,yamaxun.cn
 DOMAIN-SUFFIX,yamaxun.com
