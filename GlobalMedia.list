@@ -712,6 +712,7 @@ DOMAIN-SUFFIX,nytstyle.com
 DOMAIN-SUFFIX,nyt.com
 ## > Pandora
 DOMAIN-SUFFIX,pandora.com
+DOMAIN-SUFFIX,p-cdn.us
 ## > PandoraTV
 DOMAIN-SUFFIX,pandora.tv
 DOMAIN-SUFFIX,kmplayer.com
