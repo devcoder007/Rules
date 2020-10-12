@@ -3480,17 +3480,16 @@ payload:
   - DOMAIN-SUFFIX,mobileads.dx.cn
   ## > 一点资讯-ads
   - DOMAIN-SUFFIX,i1.go2yd.com
+  - DOMAIN-SUFFIX,ib11.go2yd.com
   - DOMAIN-SUFFIX,rl.go2yd.com
   - DOMAIN-SUFFIX,s.go2yd.com
   - DOMAIN-SUFFIX,web-track.go2yd.com
-  - DOMAIN-SUFFIX,ib11.go2yd.com
-  - DOMAIN-SUFFIX,l.yidianzixun.com
-  - DOMAIN-SUFFIX,s.yidianzixun.com
-  - DOMAIN-SUFFIX,mb.yidianzixun.com
-  - DOMAIN-SUFFIX,oppo.yidianzixun.com
   - DOMAIN-SUFFIX,imagelx.yidianzixun.com
-  - DOMAIN-SUFFIX,static-ssp.yidianzixun.com
+  - DOMAIN-SUFFIX,l.yidianzixun.com
   - DOMAIN-SUFFIX,lx-upload-log.yidianzixun.com
+  - DOMAIN-SUFFIX,oppo.yidianzixun.com
+  - DOMAIN-SUFFIX,s.yidianzixun.com
+  - DOMAIN-SUFFIX,static-ssp.yidianzixun.com
   ## > 屹浪科技-ads
   - DOMAIN-SUFFIX,js.ylunion.com
   - DOMAIN-SUFFIX,ad.ylunion.com
