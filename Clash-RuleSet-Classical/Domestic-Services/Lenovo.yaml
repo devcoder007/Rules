@@ -1,17 +1,17 @@
 payload:
   ## > Lenovo
-  - DOMAIN-SUFFIX,thinkpad.com
+  - DOMAIN-SUFFIX,cftsupport.com
   - DOMAIN-SUFFIX,ileapcloud.com
   - DOMAIN-SUFFIX,lenovo.cn
   - DOMAIN-SUFFIX,lenovo.com
   - DOMAIN-SUFFIX,lenovo.com.cn
-  - DOMAIN-SUFFIX,cftsupport.com
-  - DOMAIN-SUFFIX,lenovovip.com.cn
-  - DOMAIN-SUFFIX,lenovoeservice.com
-  - DOMAIN-SUFFIX,thinkcloudlab.com
   - DOMAIN-SUFFIX,lenovocloudos.com
+  - DOMAIN-SUFFIX,lenovoeservice.com
+  - DOMAIN-SUFFIX,lenovovip.com.cn
   - DOMAIN-SUFFIX,lxzjjt.cn
   - DOMAIN-SUFFIX,lxzjjt.com
+  - DOMAIN-SUFFIX,thinkcloudlab.com
+  - DOMAIN-SUFFIX,thinkpad.com
+  - DOMAIN-SUFFIX,zhiliaowenda.com.cn
   - DOMAIN-SUFFIX,联想职教集团.cn
   - DOMAIN-SUFFIX,联想职教集团.com
-  - DOMAIN-SUFFIX,zhiliaowenda.com.cn
