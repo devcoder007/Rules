@@ -3392,7 +3392,6 @@ DOMAIN-SUFFIX,d9.sinaimg.cn
 DOMAIN-SUFFIX,ad.sina.com.cn
 DOMAIN-SUFFIX,adbox.sina.com.cn
 DOMAIN-SUFFIX,adm.leju.sina.com.cn
-DOMAIN-SUFFIX,beacon.sina.com.cn
 DOMAIN-SUFFIX,count.video.sina.com.cn
 DOMAIN-SUFFIX,counter.sina.com.cn
 DOMAIN-SUFFIX,cre.mix.sina.com.cn
@@ -3404,7 +3403,6 @@ DOMAIN-SUFFIX,int.dpool.sina.com.cn
 DOMAIN-SUFFIX,interest.mix.sina.com.cn
 DOMAIN-SUFFIX,log.interest.mix.sina.com.cn
 DOMAIN-SUFFIX,log.mix.sina.com.cn
-DOMAIN-SUFFIX,m.beacon.sina.com.cn
 DOMAIN-SUFFIX,mg.games.sina.com.cn
 DOMAIN-SUFFIX,motu.p4p.sina.com.cn
 DOMAIN-SUFFIX,p4p.sina.com.cn
@@ -3414,7 +3412,6 @@ DOMAIN-SUFFIX,s.img.mix.sina.com.cn
 DOMAIN-SUFFIX,sax.sina.com.cn
 DOMAIN-SUFFIX,saxn.sina.com.cn
 DOMAIN-SUFFIX,saxs.sina.com.cn
-DOMAIN-SUFFIX,sbeacon.sina.com.cn
 DOMAIN-SUFFIX,slog.sina.com.cn
 DOMAIN-SUFFIX,staticadm.leju.sina.com.cn
 DOMAIN-SUFFIX,woocall.sina.com.cn
