@@ -1863,9 +1863,16 @@ DOMAIN-SUFFIX,sfacg.com
 ## > 少数派
 DOMAIN-SUFFIX,sspai.com
 DOMAIN-SUFFIX,sspai.me
-## > 什么值得买
+## > SMZDM 什么值得买
+DOMAIN-SUFFIX,faxianpindao.com
+DOMAIN-SUFFIX,quaolai.com
 DOMAIN-SUFFIX,smzdm.com
+DOMAIN-SUFFIX,smzdmimg.com
+DOMAIN-SUFFIX,valueq-sea.com
+DOMAIN-SUFFIX,wanwuzhinan.com
+DOMAIN-SUFFIX,zdm.net
 DOMAIN-SUFFIX,zdmimg.com
+DOMAIN-SUFFIX,zhidemai.com
 ## > 世纪天成
 DOMAIN-SUFFIX,tiancity.com
 DOMAIN-SUFFIX,tiancitycdn.com
