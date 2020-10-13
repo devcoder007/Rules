@@ -1887,18 +1887,26 @@ DOMAIN-SUFFIX,gitbook.com
 DOMAIN-SUFFIX,gitbook.io
 DOMAIN-SUFFIX,gitbook.zendesk.com
 ## > Github
-DOMAIN-SUFFIX,rawgithub.com
-DOMAIN-SUFFIX,rawgit.com
+DOMAIN-SUFFIX,dependabot.com
+DOMAIN-SUFFIX,git.io
+DOMAIN-SUFFIX,github.blog
 DOMAIN-SUFFIX,github.com
+DOMAIN-SUFFIX,github.community
+DOMAIN-SUFFIX,github.dev
+DOMAIN-SUFFIX,github.io
 DOMAIN-SUFFIX,githubapp.com
 DOMAIN-SUFFIX,githubassets.com
-DOMAIN-SUFFIX,github.io
-DOMAIN-SUFFIX,githubusercontent.com
-DOMAIN-SUFFIX,git.io
+DOMAIN-SUFFIX,githubhackathon.com
 DOMAIN-SUFFIX,githubstatus.com
-DOMAIN-SUFFIX,github.blog
-DOMAIN-SUFFIX,github.community
+DOMAIN-SUFFIX,githubusercontent.com
+DOMAIN-SUFFIX,rawgit.com
+DOMAIN-SUFFIX,rawgithub.com
 DOMAIN-SUFFIX,github-avatars.oss-cn-hongkong.aliyuncs.com
+## >> Atom
+DOMAIN-SUFFIX,atom.io
+## >> Npmjs
+DOMAIN-SUFFIX,npmjs.com
+DOMAIN-SUFFIX,npm.community
 ## > Gitlab
 DOMAIN-SUFFIX,gitlab.com
 DOMAIN-SUFFIX,gitlab.net
@@ -2436,8 +2444,6 @@ DOMAIN-SUFFIX,swoo.sh
 DOMAIN-SUFFIX,swoosh.com
 ## > Nodejs
 DOMAIN-SUFFIX,nodejs.org
-## > Npmjs
-DOMAIN-SUFFIX,npmjs.com
 ## > Nvidia
 DOMAIN-SUFFIX,geforce.cn
 DOMAIN-SUFFIX,geforce.co.kr
