@@ -2309,6 +2309,15 @@ payload:
   - DOMAIN-SUFFIX,alcatelmobile.com
   ## >> Blackberry
   - DOMAIN-SUFFIX,blackberry.com
+  ## > TigerFintech 老虎证券
+  - DOMAIN-SUFFIX,itiger.com
+  - DOMAIN-SUFFIX,laohu8.com
+  - DOMAIN-SUFFIX,tigerbbs.cn
+  - DOMAIN-SUFFIX,tigerbbs.com
+  - DOMAIN-SUFFIX,tigerfintech.com
+  - DOMAIN-SUFFIX,xiaohu8.com
+  - DOMAIN-SUFFIX,zhijianfengyi.cn
+  - DOMAIN-SUFFIX,zhijianfengyi.com
   ## > 腾讯
   - DOMAIN-SUFFIX,1700.cn
   - DOMAIN-SUFFIX,17roco.com

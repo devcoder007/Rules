@@ -2308,6 +2308,15 @@ DOMAIN-SUFFIX,alcatel-home.com
 DOMAIN-SUFFIX,alcatelmobile.com
 ## >> Blackberry
 DOMAIN-SUFFIX,blackberry.com
+## > TigerFintech 老虎证券
+DOMAIN-SUFFIX,itiger.com
+DOMAIN-SUFFIX,laohu8.com
+DOMAIN-SUFFIX,tigerbbs.cn
+DOMAIN-SUFFIX,tigerbbs.com
+DOMAIN-SUFFIX,tigerfintech.com
+DOMAIN-SUFFIX,xiaohu8.com
+DOMAIN-SUFFIX,zhijianfengyi.cn
+DOMAIN-SUFFIX,zhijianfengyi.com
 ## > 腾讯
 USER-AGENT,live4iphone*
 USER-AGENT,qqlive4iphone*
