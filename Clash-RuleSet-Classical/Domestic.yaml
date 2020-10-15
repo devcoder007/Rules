@@ -504,10 +504,13 @@ payload:
   - DOMAIN-SUFFIX,网址之家.公司.cn
   - DOMAIN-SUFFIX,网址之家.网络.cn
   ## >> 太和音乐
-  - DOMAIN-SUFFIX,taihe.com
-  - DOMAIN-SUFFIX,qianqian.com
   - DOMAIN-SUFFIX,dmhmusic.com
+  - DOMAIN-SUFFIX,qianqian.com
   - DOMAIN-SUFFIX,submusic.cn
+  - DOMAIN-SUFFIX,taihe.com
+  - DOMAIN-SUFFIX,ttplayer.com
+  - DOMAIN-SUFFIX,youyou.com
+  - DOMAIN-SUFFIX,youyou001.com
   ## >> 作业帮
   - DOMAIN-SUFFIX,zuoyebang.cc
   - DOMAIN-SUFFIX,zuoyebang.com
