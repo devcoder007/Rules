@@ -1855,22 +1855,6 @@ DOMAIN-SUFFIX,fortawesome.com
 DOMAIN-SUFFIX,ftchinese.com
 ## > Getcomposer
 DOMAIN-SUFFIX,getcomposer.org
-## > Garena
-DOMAIN-SUFFIX,garena.co.id
-DOMAIN-SUFFIX,garena.co.th
-DOMAIN-SUFFIX,garena.com
-DOMAIN-SUFFIX,garena.live
-DOMAIN-SUFFIX,garena.my
-DOMAIN-SUFFIX,garena.ph
-DOMAIN-SUFFIX,garena.sg
-DOMAIN-SUFFIX,garena.tv
-DOMAIN-SUFFIX,garena.tw
-DOMAIN-SUFFIX,garena.vn
-DOMAIN-SUFFIX,garenanow.com
-DOMAIN-SUFFIX,seagroup.com
-DOMAIN-SUFFIX,avatargarenanow-a.akamaihd.net
-DOMAIN-SUFFIX,cdngarenanow-a.akamaihd.net
-DOMAIN-SUFFIX,dlmobilegarena-a.akamaihd.net
 ## > Gigabyte
 DOMAIN-SUFFIX,aorus.com
 DOMAIN-SUFFIX,aoruszone.cn
@@ -3164,10 +3148,6 @@ IP-CIDR,209.237.192.0/19,no-resolve
 ## > Uber
 DOMAIN-SUFFIX,uber.com
 DOMAIN-SUFFIX,ubereats.com
-## > Ubi
-DOMAIN-SUFFIX,ubi.com
-DOMAIN-SUFFIX,ubisoft.com
-DOMAIN-SUFFIX,uplay.com
 ## > Ubuntu
 DOMAIN-SUFFIX,ubuntu.com
 DOMAIN-SUFFIX,ubuntu.net
