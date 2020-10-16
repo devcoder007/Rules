@@ -3497,6 +3497,7 @@ DOMAIN-SUFFIX,oortgslb.com
 DOMAIN-SUFFIX,pacmantwo.com
 DOMAIN-SUFFIX,pstatp.com
 DOMAIN-SUFFIX,samasty.com
+DOMAIN-SUFFIX,snssdk.com
 DOMAIN-SUFFIX,tekkenthree.com
 DOMAIN-SUFFIX,tetrisone.com
 DOMAIN-SUFFIX,toscdn.com
@@ -3612,6 +3613,23 @@ DOMAIN-SUFFIX,ihst8.com
 DOMAIN-SUFFIX,kolbuyer.cn
 DOMAIN-SUFFIX,woaihuoshan.com
 DOMAIN-SUFFIX,wohst8.com
+## >> 巨量引擎
+DOMAIN-SUFFIX,bytesfield.com
+DOMAIN-SUFFIX,bytesmanager.com
+DOMAIN-SUFFIX,juliangyinqing.cn
+DOMAIN-SUFFIX,juliangyinqing.com
+DOMAIN-SUFFIX,juliangyinqing.net
+DOMAIN-SUFFIX,oceanengine.cn
+DOMAIN-SUFFIX,oceanengine.com
+DOMAIN-SUFFIX,pangle.cn
+DOMAIN-SUFFIX,pangolin-dsp-toutiao-b.com
+DOMAIN-SUFFIX,pangolin-dsp-toutiao.com
+DOMAIN-SUFFIX,pangolin-sdk-toutiao-b.com
+DOMAIN-SUFFIX,pangolin-sdk-toutiao.com
+DOMAIN-SUFFIX,panplayable-toutiao-b.com
+DOMAIN-SUFFIX,panplayable-toutiao.com
+DOMAIN-SUFFIX,pglstatp-toutiao-b.com
+DOMAIN-SUFFIX,pglstatp-toutiao.com
 ## >> 西瓜视频
 DOMAIN-SUFFIX,ixigua.com
 DOMAIN-SUFFIX,ixiguavideo.com
