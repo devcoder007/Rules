@@ -3324,6 +3324,8 @@ payload:
   - DOMAIN-SUFFIX,news-img.lsttnews.com
   - DOMAIN-SUFFIX,news-log.lsttnews.com
   - DOMAIN-SUFFIX,push-dc.lsttnews.com
+  - DOMAIN-SUFFIX,readdsp.com
+  - DOMAIN-SUFFIX,wkanx.com
   ## > Vivo-Ads
   - DOMAIN-SUFFIX,adlog.vivo.com.cn
   - DOMAIN-SUFFIX,adreq.vivo.com.cn
